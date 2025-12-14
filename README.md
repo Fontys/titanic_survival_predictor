@@ -1,4 +1,4 @@
-# titanic_survival_predictor
+# Titanic Survival Predictor
 This repository provides a foundational notebook designed to introduce students to machine learning using sklearn. The case focuses on a [classification](https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/) problem, utilizing the [Titanic dataset](https://www.openml.org/search?type=data&sort=runs&id=40945&status=active) to determine the survival probability of a Titanic passenger, which is a [discrete variable](https://en.wikipedia.org/wiki/Continuous_or_discrete_variable). The primary goal of this assignment is to familiarize students with classification modelling and evaluate model training outcomes by means of sklearn.
 
 ![house-price-predictor](https://github.com/Fontys/titanic_survival_rater/blob/main/BANNER.jpeg)
